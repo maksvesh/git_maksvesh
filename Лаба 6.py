@@ -1,7 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
 
-# Основное окно приложения
 root = tk.Tk()
 root.title("Главное окно")
 root.geometry("300x200")
