@@ -3,7 +3,7 @@ from tkinter import messagebox
 
 root = tk.Tk()
 root.title("Главное окно")
-root.geometry("300x200")
+root.geometry("500x400")
 
 def summa(x, y):
     """
